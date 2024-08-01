@@ -1,6 +1,7 @@
 import { HERO_CONTENT } from "../constants";
 import ProfilePic from "../assets/GabrielLoboProfile.jpg";
 import { motion } from "framer-motion"
+import * as React from 'react';
 
 const container = (delay) => ({
     hidden: {x: -100, opacity: 0},

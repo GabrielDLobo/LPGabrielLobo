@@ -6,7 +6,7 @@ const container = (delay) => ({
     visible: { x: 0, opacity: 1, transition: {duration: 0.5, delay: delay}}});
 const About = () => {
   return (
-    <div className="border-b border-neutral-900 pb-4 "> {/* Configurações Div geral e título da seção */}
+    <div id="SobreSection" className="border-b border-neutral-900 pb-4 "> {/* Configurações Div geral e título da seção */}
         <motion.h1 variants={container(1)} initial= "hidden" animate="visible" className="my-20 text-center text-4xl">Minha
             <span className="text-neutral-500"> missão
             </span>

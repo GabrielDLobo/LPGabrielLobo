@@ -1,11 +1,10 @@
-import Navbar from "./components/Navbar"
-import Hero from "./components/Hero"
-import About from "./components/About"
-import Technologies from "./components/Technologies"
-import Automacoes from "./components/Automacoes"
-import RecentProjects from "./components/RecentProjects"
-import Contactme from "./components/Contactme"
-import Footer from "./components/Footer"
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Technologies from "./components/Technologies";
+import RecentProjects from "./components/RecentProjects";
+import Contactme from "./components/Contactme";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -19,7 +18,6 @@ const App = () => {
         <Hero />
         <About />
         <Technologies />
-        <Automacoes />
         <RecentProjects />
         <Contactme />
         <Footer />

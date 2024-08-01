@@ -15,8 +15,8 @@ export const ABOUT_TEXTCOLABORACAO = `A colaboração é essencial para criar e 
 
 export const ABOUT_TEXTFEEDBACK = ` Valorizo o feedback dos meus clientes e utilizo-o para melhorar continuamente meus softwares.`;
 
-export const ecommercedes = ` Uma plataforma de compras online criada para oferecer a melhor experiência ao usuário. Desenvolvido com as mais avançadas tecnologias de programação para garantir segurança, rapidez e facilidade de uso.`;
+export const ecommercedesjs = ` projeto de um E-Commerce utilizando JavaScript, React, MongoDB, Express e Node JS`;
 
-export const landingpageumbandades = ` Uma página voltada a difundir a espiritualidade, a cultura e os ensinamentos da Umbanda, proporcionando um espaço digital onde todos possam aprender, se conectar e praticar a religião com respeito e devoção. sendo um ponto de referência para a comunidade umbandista, promovendo o conhecimento e a união entre seus praticantes.`;
+export const ecommercedests = ` rojeto de um E-Commerce utilizando TypeScript, React, Next.js 13, TailwindCSS, Prisma e Stripe`;
 
-export const landingpagerpades = `Nossa missão é capacitar empresas a atingirem novos níveis de eficiência e produtividade através da automação de processos chamado de RPA - (Robotic Process Automation.`;
+export const landingpagerjs = `Projeto de Landing Page Pessoal utilizando JavaScript, React, TailwindCSS, Vite e ReactIcons`;

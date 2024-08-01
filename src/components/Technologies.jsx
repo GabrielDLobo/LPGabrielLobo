@@ -10,7 +10,9 @@ import { DiDjango } from "react-icons/di";
 import { FaGithub } from "react-icons/fa";
 import { FaNodeJs } from "react-icons/fa";
 import { SiMysql } from "react-icons/si";
-import { motion } from "framer-motion"
+import { SiSelenium } from "react-icons/si";
+import { IoHome } from "react-icons/io5";
+import { motion } from "framer-motion";
 
 const container = (delay) => ({
   hidden: {x: -100, opacity: 0},
@@ -81,6 +83,16 @@ const Technologies = () => {
             <FaGithub className='text-7xl text-githubicon' />
             <h1 className='text-center'>Git/Github</h1>
           </motion.div>
+
+          <motion.div className="box" whileHover={{ scale: [null, 1.5, 1.4] }} transition={{ duration: 0.3 }} className="rounded-2xl border-4 border-neutral-100 p-4">
+           <SiSelenium className='text-7xl text-seleniumicon'/>
+           <h1 className='text-center'>Selenium</h1>
+        </motion.div>
+
+        <motion.div className="box" whileHover={{ scale: [null, 1.5, 1.4] }} transition={{ duration: 0.3 }} className="rounded-2xl border-4 border-neutral-100 p-4">
+           <IoHome className='text-7xl text-pyautoguiicon'/>
+           <h1 className='text-center'>PyAutoGUI</h1>
+        </motion.div>
 
         </motion.div>
     </div>
