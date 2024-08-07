@@ -8,6 +8,7 @@
 
 ![javascript][JAVASCRIPT__BADGE]
 ![react][REACT__BADGE]
+![TailwindCss][TAILWINDCSS_BADGE]
 
 <p align="center">
  <a href="#about">About</a> • 
