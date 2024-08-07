@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: bold;">My First Portfólio 💻</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,javascript)](https://skillicons.dev)
 
 <p align="center">
  <a href="#about">About</a> • 
